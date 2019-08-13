@@ -1,6 +1,6 @@
 {
   "name": "vue-calendar-board",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "vue日历面板组件",
   "main": "src/index.js",
   "files": [
