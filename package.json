@@ -1,0 +1,28 @@
+{
+  "name": "vue-calendar-board",
+  "version": "1.0.0",
+  "description": "vue日历面板组件",
+  "main": "index.js",
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "qdmoment",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliSnowaroma/vue-calendar-board.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AliSnowaroma/vue-calendar-board/issues"
+  },
+  "homepage": "https://github.com/AliSnowaroma/vue-calendar-board#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
