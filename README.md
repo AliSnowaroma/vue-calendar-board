@@ -1,11 +1,11 @@
-#vue日历面板组件
+# vue日历面板组件
 
-##使用：
+## 使用：
 ```
 npm install vue-calendar-board
 ```
 
-##暴露接口
+## 暴露接口
 
 ```
 <Calender
